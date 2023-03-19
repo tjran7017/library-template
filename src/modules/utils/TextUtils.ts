@@ -1,0 +1,1 @@
+export const util = () => console.log('call util function');
